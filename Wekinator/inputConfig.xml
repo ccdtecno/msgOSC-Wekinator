@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<OSCInputGroup>
+  <oscMessage>/xy</oscMessage>
+  <numInputs>2</numInputs>
+  <groupName>Inputs</groupName>
+  <inputNames>
+    <string>xy-1</string>
+    <string>xy-2</string>
+  </inputNames>
+</OSCInputGroup>
